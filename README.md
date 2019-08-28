@@ -1,9 +1,10 @@
 # Python-Stk-Public
-A collection of models to do quantitative analysis on the stock market. 
+A collection of models to do quantitative analysis on the stock market.
+
 This project uses Keras as an interface for Tensorflow-GPU. The models are trained and tested on my PC's GPU.
 All packages are installed using Anaconda and the Conda package manager.
 
-Currently I'm working on another ensemble for options analysis, as well as a transformer to do sentiment analysis on company descriptions. These models are currently waiting on updates from other packages.
+Currently I'm working on another ensemble for options analysis, as well as a transformer to do sentiment analysis on company descriptions.
 
 ---
 
